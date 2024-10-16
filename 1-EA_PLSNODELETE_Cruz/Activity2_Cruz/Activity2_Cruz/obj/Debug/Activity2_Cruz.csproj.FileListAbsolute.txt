@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\obj\Debug\Activity2_Cruz.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\obj\Debug\Activity2_Cruz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\bin\Debug\Activity2_Cruz.exe.config
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\bin\Debug\Activity2_Cruz.exe
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\bin\Debug\Activity2_Cruz.pdb
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\obj\Debug\Activity2_Cruz.exe
+C:\Users\admin\Desktop\1-EA_PLSNODELETE_Cruz\Activity2_Cruz\Activity2_Cruz\obj\Debug\Activity2_Cruz.pdb
